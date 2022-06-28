@@ -1,0 +1,7 @@
+C:\Users\pc 1\source\repos\Edgar_ABB\bin\Debug\Edgar_ABB.exe.config
+C:\Users\pc 1\source\repos\Edgar_ABB\bin\Debug\Edgar_ABB.exe
+C:\Users\pc 1\source\repos\Edgar_ABB\bin\Debug\Edgar_ABB.pdb
+C:\Users\pc 1\source\repos\Edgar_ABB\obj\Debug\Edgar_ABB.csproj.AssemblyReference.cache
+C:\Users\pc 1\source\repos\Edgar_ABB\obj\Debug\Edgar_ABB.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\source\repos\Edgar_ABB\obj\Debug\Edgar_ABB.exe
+C:\Users\pc 1\source\repos\Edgar_ABB\obj\Debug\Edgar_ABB.pdb
